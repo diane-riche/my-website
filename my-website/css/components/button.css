@@ -1,0 +1,23 @@
+
+a {
+  color:#c28f74;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #1d1d1b;
+  text-decoration: none;
+}
+
+.btn-pink {
+	background-color:#c28f74;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-pink:hover {
+	background-color: #1d1d1b;
+	color: white;
+}
